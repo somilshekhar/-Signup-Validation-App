@@ -31,7 +31,7 @@ This is a simple Android app made with Java that lets users sign up by filling a
 2. Open it in Android Studio.
 3. Run it on your phone or emulator.
 4. Fill the signup form and tap Signup.
-5. See your entered details on the next page.
+5. See your entered details on the next page.The code is well commented so user can get a better clarification about the codes.
 
 ---
 
